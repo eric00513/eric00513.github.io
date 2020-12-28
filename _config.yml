@@ -88,7 +88,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.acmicpc.net/user/eric00513"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eric00513"
