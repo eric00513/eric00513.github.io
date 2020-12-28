@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "eric00513"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "Hi! I'm eric00513."
   location         : "South Korea"
   email            :
   links:
@@ -113,7 +113,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/eric00513"
 
 # Reading Files
 include:
